@@ -1,0 +1,24 @@
+{
+  "BundleType": "Application",
+  "BundleIdentifier": "grid-play",
+  "AppIcon": {
+    "36x18": "tutorial.png"
+  },
+  "AppName": {
+    "en": "Grid Play"
+  },
+  "SupportedLanguages": [
+    "en"
+  ],
+  "DefaultTabs": [
+    {
+        "arguments": "main",
+        "title":  { "en": "Main" }
+    }
+],
+"Dependencies": {
+    "api": "0.2.3",
+    "util": "0.1.0",
+    "resources": "0.2.2"
+  }
+}
