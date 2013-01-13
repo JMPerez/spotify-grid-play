@@ -2,7 +2,7 @@
 
 Grid Play is a sample [Spotify App](https://developer.spotify.com/technologies/apps/) showing a tracklist that is rendered as multiple covers.
 
-![Spotify Grid Play screenshot](https://github.com/spotify/apps-tutorial/raw/master/img/spotify-grid-play.jpg)
+![Spotify Grid Play screenshot](https://github.com/JMPerez/spotify-grid-play/master/spotify-grid-play.jpg)
 
 The default views controls allow rendering a tracklist as a vertical list of tracks, or rendering a cover with a play button that plays the context of the tracklist.
 
