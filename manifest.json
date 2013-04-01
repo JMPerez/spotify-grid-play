@@ -1,6 +1,6 @@
 {
   "BundleType": "Application",
-  "BundleIdentifier": "grid-play",
+  "BundleIdentifier": "spotify-grid-play",
   "AppIcon": {
     "36x18": "tutorial.png"
   },
